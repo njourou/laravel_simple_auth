@@ -2,7 +2,7 @@
 User authentication, registration with email confirmation, social media authentication, password recovery
 
 Installation Instructions
--Clone the repository
+1.Clone the repository
 -Create a MySQL database for the project
 mysql -u root -p, if using Vagrant: mysql -u homestead -psecret
 create database laravelAuth;
