@@ -9,5 +9,5 @@ create database laravelAuth;
 
 -From the projects root run cp .env.example .env
 -Configure your .env file
--Run composer update from the projects root folder
+-Run composer update from the projects root folder.
 
